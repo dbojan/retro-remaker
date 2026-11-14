@@ -13,7 +13,7 @@ If you want to play old rpg-like games from around 1988 onwards with the new loo
 
 Goal:
 
-Create modular rpg engine, first with well known rpg-like rules, then add other options, like first person view, blobbers, cyber rpg, nuclear wasteland, old space rpg for those traveling in space :), etc ...
+Create modular rpg engine, first with well known rpg-like rules, then add other options, like first person view, blobbers, cyber rpg, nuclear wasteland, old space rpg for those traveling in space :), saints with swords, etc ...
 
 Make it ai developer friendly. Think everything configurable using (json) config files, even for 'finished', shipped game. Maybe gui editor later.
 
